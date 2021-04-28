@@ -20,7 +20,7 @@ export default function RateExercise() {
             >3</button>
             <button
                 style={{ "margin": "3px", "font-family": "courier" }}
-                onClick={() => alert("you rated your workout a 1 out of 5!")}
+                onClick={() => alert("you rated your workout a 4 out of 5!")}
             >4</button>
             <button
                 style={{ "margin": "3px", "font-family": "courier" }}
