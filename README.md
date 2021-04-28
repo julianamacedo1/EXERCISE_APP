@@ -1,6 +1,5 @@
 # EXERCISE_APP
 
-
 This app allows users to chose from 5 different exercises
 
 There are 2 duration exercises and 3 repititon exercises
