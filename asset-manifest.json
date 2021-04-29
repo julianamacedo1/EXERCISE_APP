@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/julianamacedo1/EXERCISE_APP/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/julianamacedo1/EXERCISE_APP/static/js/main.a0377108.chunk.js",
+    "main.js.map": "/julianamacedo1/EXERCISE_APP/static/js/main.a0377108.chunk.js.map",
+    "runtime-main.js": "/julianamacedo1/EXERCISE_APP/static/js/runtime-main.fffd9dba.js",
+    "runtime-main.js.map": "/julianamacedo1/EXERCISE_APP/static/js/runtime-main.fffd9dba.js.map",
+    "static/js/2.89e3a1b5.chunk.js": "/julianamacedo1/EXERCISE_APP/static/js/2.89e3a1b5.chunk.js",
+    "static/js/2.89e3a1b5.chunk.js.map": "/julianamacedo1/EXERCISE_APP/static/js/2.89e3a1b5.chunk.js.map",
+    "static/js/3.192353c6.chunk.js": "/julianamacedo1/EXERCISE_APP/static/js/3.192353c6.chunk.js",
+    "static/js/3.192353c6.chunk.js.map": "/julianamacedo1/EXERCISE_APP/static/js/3.192353c6.chunk.js.map",
+    "index.html": "/julianamacedo1/EXERCISE_APP/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/julianamacedo1/EXERCISE_APP/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.89e3a1b5.chunk.js.LICENSE.txt": "/julianamacedo1/EXERCISE_APP/static/js/2.89e3a1b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fffd9dba.js",
+    "static/js/2.89e3a1b5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a0377108.chunk.js"
+  ]
+}
